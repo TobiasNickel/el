@@ -2,6 +2,11 @@
 
 Minimal JavaScript application framework inspired by React, Vue, and lit-element. See a working todo list [example](https://frameable.github.io/el/example.html) and [source](https://github.com/frameable/el/blob/main/example.html)
 
+# this FORK:
+I made a fork of frameable/el to refactor it to typescript. You can find the ts-file in [story/stories/el.ts](story/stories/el.ts) (I hope the link is right). The el.js file in this repo is still the original el.js. I will not publish the typescript version to npm, you can just copy it to your project.
+
+I used story book and refactored the original webComponent/lit example to use el.js instead. So functionally this fork should be equivalent just integrate better in your typescript projects. 
+
 
 ### Introduction
 
